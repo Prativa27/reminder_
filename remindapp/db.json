@@ -1,0 +1,57 @@
+{
+  "login": [],
+  "Add_Reminder": [
+    {
+      "date": "2023-10-11",
+      "subject": "Meeting",
+      "description": "ewf",
+      "email": "nmbhfg@ghhj",
+      "contactNo": "9999999",
+      "smsNo": "kakda",
+      "recurDays": [
+        "2 Days"
+      ],
+      "id": 1
+    },
+    {
+      "date": "2023-10-11",
+      "subject": "Meeting",
+      "description": "ewf",
+      "email": "nmbhfg@ghhj",
+      "contactNo": "9999999",
+      "smsNo": "kakda",
+      "recurDays": [
+        "2 Days"
+      ],
+      "id": 2
+    },
+    {
+      "date": "2023-10-24",
+      "subject": "Birthday",
+      "description": "ewfsdffs",
+      "email": "nmbhfg@ghhjsdf",
+      "contactNo": "000009",
+      "smsNo": "989898",
+      "recurDays": [
+        "5 Days"
+      ],
+      "id": 3
+    }
+  ],
+  "Modify_Reminder":
+  [{
+
+  }],
+  "Disable Reminder":[{
+
+  }],
+  "Enable_Reminder":[{
+
+  }],
+  "Delete_Reminder":[{
+
+  }],
+"View":[{
+
+}]
+}
